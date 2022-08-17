@@ -1,0 +1,6 @@
+git config --global user.name "bryan2459"
+git config --global user.email "mvs360@gmail.com"
+
+git init
+git add *
+git commit -m "Second commit"
